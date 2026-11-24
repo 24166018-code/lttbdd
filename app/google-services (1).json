@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726442188127",
+    "project_id": "lttbdd-d9b84",
+    "storage_bucket": "lttbdd-d9b84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726442188127:android:b33b55911d188701cf6aea",
+        "android_client_info": {
+          "package_name": "com.example.lttbdd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWPtXl3ojYgn246kdGlvT6rbjS-2UkcZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726442188127:android:35c41fd0f5355903cf6aea",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWPtXl3ojYgn246kdGlvT6rbjS-2UkcZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
